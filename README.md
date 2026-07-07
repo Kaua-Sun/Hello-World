@@ -2,7 +2,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVjeGljbnNmZDVnMG00eXpkcDRzZnB3M2JlbnVpaXozOHplenU4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPKhUtNG3TW74f6/giphy.gif" alt="GIF">
 
-# 🌌 Shiva Spinoza
+# 🌌 Kauã dos santos
 
 > "Desenvolvedor por necessidade, escritor por alma. Criando o ecossistema narrativo Matrizium Infinita e explorando o terror visceral."
 
